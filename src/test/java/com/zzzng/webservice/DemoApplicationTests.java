@@ -1,4 +1,4 @@
-package com.zzzng.demo;
+package com.zzzng.webservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
